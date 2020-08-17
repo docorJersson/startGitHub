@@ -1,1 +1,1 @@
-alert("Este es un mensaje raro");
+//alert("Este es un mensaje raro");
