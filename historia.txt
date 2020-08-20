@@ -7,4 +7,4 @@ SANSUNG J6+
 
 XIAOMI REDMI NOTE 8 PRO
 
-Cualquiera que desee agregar algo puede hacerlo y nos envìan un pull -request, recuerda que aceptamos alredor del mundo.
+Cualquiera que desee agregar algo puede hacerlo y nos envìan un pull -request, recuerda que aceptamos modificaciones de alredor del mundo.
