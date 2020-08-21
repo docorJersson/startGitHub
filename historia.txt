@@ -7,4 +7,6 @@ SANSUNG J6+
 
 XIAOMI REDMI NOTE 8 PRO
 
+Noor se acaba de unir a git y github
+
 Cualquiera que desee agregar algo puede hacerlo y nos envìan un pull -request, recuerda que aceptamos modificaciones de alredor del mundo.
